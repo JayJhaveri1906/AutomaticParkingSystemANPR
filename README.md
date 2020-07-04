@@ -16,3 +16,16 @@
 8) In the Advance(auth) button, select the floating button and add your number plate there.
 9) To run without the PyQt5 ui directly run video_final.py and enter 1 for entry, then 0 for exit.
 10) To run with ui, Run the design.py code.
+
+## Team X Æ A-4
+Jay Jhaveri: https://github.com/JayJhaveri1906
+
+Prem Chhabria: https://github.com/premchhabria
+
+Abhay Gupta: https://github.com/abhay8463
+
+Sahil Lotya: https://github.com/sahillotya
+
+Rahul Koli: https://github.com/rahul2429
+
+Prasad Govekar: https://github.com/govekarmohit
