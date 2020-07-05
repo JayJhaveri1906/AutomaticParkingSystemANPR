@@ -13,7 +13,9 @@
    - Download the json file and use it to build a database on firebase.(import json option). It should then look something like this: -
 ![](images/database.png)
 3) Android Stuff: -
-  1. 
+   - Open the android project in android studio.
+   - tools->firebase->realtime data base-> connect to your firebase.
+   - Follow the steps given there.
 4) Install requirements.txt for the backend python part.
 5) Install the app on phone/emulator.
 6) TESSERACAT OCR STUFF TBD
