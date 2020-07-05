@@ -5,9 +5,15 @@
 
 ## Steps to run: -
 1) Download [THIS](https://drive.google.com/file/d/10lYoIKufiyKaw570UvLbRHbUY6YGYlht/view?usp=sharing) and add this to BackendPy folder.
-2) Download the json file and use it to build a database on firebase.(import json). It should look something like this: -
+2) Firebase Setup: -
+   - Create a new project in firebase.
+   - Add app android
+   - Follow the steps given there. ( package name for this app `com.example.database`)
+   - Create a new database( test mode )
+   - Download the json file and use it to build a database on firebase.(import json option). It should then look something like this: -
 ![](images/database.png)
-3) Change this in android app... line number etc.TBD
+3) Android Stuff: -
+  1. 
 4) Install requirements.txt for the backend python part.
 5) Install the app on phone/emulator.
 6) TESSERACAT OCR STUFF TBD
