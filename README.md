@@ -16,6 +16,7 @@
    - Open the android project in android studio.
    - tools->firebase->realtime data base-> connect to your firebase.
    - Follow the steps given there.
+   - After everything, this file(google-services.json) should have been added in the app folder. Like This: - ![](images/afterFirebase.png)
 4) Install requirements.txt for the backend python part.
 5) Install the app on phone/emulator.
 6) Tesseract Ocr stuff: -
