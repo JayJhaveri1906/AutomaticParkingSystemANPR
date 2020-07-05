@@ -25,7 +25,7 @@
 7) Go to line number 84 and 85 and give a path to store temporary frames of the video being processed.
 8) Open video_final.py and on line number 235(with ui) or on 246(without ui) give path to a video or keep path = 0 to activate webcam( use a printed number plate )
   [Sample video](https://drive.google.com/file/d/1QL5nR2pNM71CKH2vehXpEgiqdH6SAAho/view?usp=sharing)
-9) In the Advance(auth) button, select the floating button and add your number plate there.
+9) Now inside the app, In the Advance(auth) button, select the floating button and add your number plate there.
 10) To run without the PyQt5 ui directly run video_final.py and enter 1 for entry, then 0 for exit.
 11) To run with ui, Run the design.py code.
 
