@@ -1,4 +1,16 @@
 # AutomaticParkingSystemANPR
+This is an affordable solution using image processing of number plates to detect, identify and monitor vehicles in different scenarios.
+This is a project made for eliminating the need for manual registers and multiple watchmen in a simple cost-efficient way :)
+It uses Yolo v3's object detection to detect number-plates and follows it by tesseract OCR to identify the characters from the recognized number-plates.
+The android app is made using java.
+We use firebase for the database storage and also as the link between python and android codes.
+
+A user registers his/her number plate before reaching the parking destination.
+One on reaching presses the enter button( to be implemented on the app itself. Temporary solution, made a PyQt5 app on python.)
+On exiting the user presses the exit button which automatically calculates the total parking time, cost, etc.
+Payment structure yet to be implemented.
+
+This was done for Smart India hackathon 2020 as well as Looking beyond Syllabus 2020.
 
 ## Demo yt vid: - 
 [Automatic Number Plate Recognition system - Automated Parking](https://www.youtube.com/watch?v=i64AUqCuKV8&feature=youtu.be)
