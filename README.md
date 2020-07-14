@@ -12,7 +12,7 @@ Payment structure yet to be implemented.
 
 This was done for Smart India hackathon 2020 as well as Looking beyond Syllabus 2020.
 
-## Demo yt vid: - 
+## Demo youtube video: - 
 [Automatic Number Plate Recognition system - Automated Parking](https://www.youtube.com/watch?v=i64AUqCuKV8&feature=youtu.be)
 
 ## Steps to run: -
