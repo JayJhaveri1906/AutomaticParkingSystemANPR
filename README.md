@@ -6,7 +6,7 @@ The android app is made using java.
 We use firebase for the database storage and also as the link between python and android codes.
 
 A user registers his/her number plate before reaching the parking destination.
-One on reaching presses the enter button( to be implemented on the app itself. Temporary solution, made a PyQt5 app on python.)
+One on reaching presses the enter button( to be implemented on the app itself. temporary solution, made a PyQt5 app on python.)
 On exiting the user presses the exit button which automatically calculates the total parking time, cost, etc.
 Payment structure yet to be implemented.
 
