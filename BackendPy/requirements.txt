@@ -1,7 +1,7 @@
 PyQt5==5.14.1
 PyQt5-sip==12.7.0
 opencv-python==4.1.2.30
-numpy==1.18.1
+numpy==1.22.0
 imutils==0.5.3
 pytesseract==0.3.1
 pandas==0.25.3
